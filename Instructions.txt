@@ -1,0 +1,13 @@
+Instructions:
+1. Download the above Manual
+2. Install Git Software 
+3. Check Git Version
+4. Config Git - name & email
+
+(Consider you are a Developer)
+5. Clone Repository
+6. Add new file with your RegNo
+7. Add to Stage
+8. Commit Changes to local repository
+9. Create branch with your RegNo
+10. Push local repository to GitHub Repository
